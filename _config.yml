@@ -1,7 +1,7 @@
 # Site settings
 title: Irvan Yusirman
 email: ir4van@gmail.com
-description: This my personal site than can i share in public. This personal site develop using Jekyll.
+description: "Ini adalah situs pribadi saya yang dikembangkan dengam aplikasi Jekyll."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://navri.github.io" # the base hostname & protocol for your site
 twitter_username: ir4van
