@@ -9,3 +9,4 @@ github_username:  navri
 
 # Build settings
 markdown: kramdown
+port: 4002
