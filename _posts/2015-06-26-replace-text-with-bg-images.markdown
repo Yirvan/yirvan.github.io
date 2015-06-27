@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to replace text with background images"
+title:  "How to replace text with background images (HTML & SASS)."
 date:   2015-06-26 13:37:49
 categories: jekyll update
 ---
