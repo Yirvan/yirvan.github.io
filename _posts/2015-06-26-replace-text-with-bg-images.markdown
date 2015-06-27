@@ -3,7 +3,7 @@ layout: post
 title: "How to replace text with background images (HTML & SASS)."
 date: {}
 categories: jekyll update
-published: true
+published: false
 ---
 
 Cara menyembunyikan text dan menggantinya dengan background-image 
