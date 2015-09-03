@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "How to replace text with background images (HTML & SASS)."
-date:   2015-06-26 13:37:49
+title: "How to replace text with background images (HTML & SASS)."
+date: {}
 categories: jekyll update
+published: true
 ---
-Cara menyembunyikan text dan menggantinya dengan background-image.
+
+Cara menyembunyikan text dan menggantinya dengan background-image 
+(ref. codyhouse).
 
 HTML code:
 
