@@ -46,3 +46,4 @@ A daily dose of colostrum is a great choice and Alpha Lipid™ Lifeline™ provi
 [Bloomberg](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=13647687)
 
 [colostrum patent](http://www.google.com/patents/WO2013008155A1?cl=en)-->
+
