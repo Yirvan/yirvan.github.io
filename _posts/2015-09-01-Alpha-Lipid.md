@@ -3,7 +3,7 @@ title: "ALPHA LIPID™"
 layout: post
 photo_url: "http://navri.github.io/kotaide/resources/Alpha-Lipid-Lifeline-Patent1.jpg"
 description: "Alpha LipidTM sangat meningkatkan efektivitas dasar kolostrum. Kolostrum Alpha LipidTM New Image adalah produk kolostrum berstandarisasi. "
-comments: yes
+comments: true
 ---
 ![]({{site.baseurl}}/resources/Alpha-Lipid-Lifeline-Patent1.jpg)
 

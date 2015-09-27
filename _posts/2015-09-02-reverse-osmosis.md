@@ -3,6 +3,7 @@ title: "Reverse Osmosis (RO)"
 layout: post
 og_image_url: "http://navri.github.io/kotaide/resources/300px-Simple_RO_schematic.png"
 description: " Reverse Osmosis ialah perpindahan molekul pelarut dari konsentrasi tinggi ke konsentrasi rendah melalui membran semi-permeable."
+comments: true
 ---
 **Reverse Osmosis** merupakan kebalikannya dari osmosis. Jika osmosis ialah perpindahan molekul pelarut dari konsentrasi rendah ke konsentrasi tinggi melalui membran semi-permeable. Maka Reverse Osmosis ialah perpindahan molekul pelarut dari konsentrasi tinggi ke konsentrasi rendah melalui membran semi-permeable.
 
