@@ -1,7 +1,7 @@
 ---
 title: "Cara Instalasi Jekyll"
 layout: post
-photo_url: "http://kotaide.com/resources/jekyll-logo-2x.png"
+photo_url: "http://kotaide.com/resources/membrane-ro.png"
 description: "Jekyll is a blog-aware, static site generator in Ruby."
 comments: true
 ---
