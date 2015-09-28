@@ -82,24 +82,13 @@ var columns = null;
   function setup(){
     f();
     var onresize = f;
-    // var timer = null;
-    // function onresize() {
-    //   if (timer !== null) { return; }
-    //   timer = setTimeout(function(){ timer = null; f(); }, 100);
-    // }
+    
     if (window.addEventListener) {
       window.addEventListener('resize', onresize);
     } else {
       window.attachEvent('resize', onresize);
     }
   }
-
-// if (window.addEventListener) {
-//   window.addEventListener('DOMContentLoaded', setup);
-// } else {
-//   window.attachEvent('onload', setup);
-// }
-
   window.initFuncs.push(setup);
 
 })();

@@ -11,7 +11,12 @@
     {% include highlight.html %}
     {% include analytics.html %}
     {% include disqus.html %}
-		<script>for (var k in window.initFuncs) { window.initFuncs[k](); } delete window.initFuncs;</script>
+		<script>
+    for (var k in window.initFuncs) {
+      window.initFuncs[k](); 
+    } 
+    delete window.initFuncs;
+    </script>
   </body>
 
 </html>
