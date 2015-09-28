@@ -1,7 +1,7 @@
 ---
 title: "Reverse Osmosis (RO)"
 layout: post
-og_image_url: "http://kotaide.com/resources/300px-Simple_RO_schematic.png"
+og_image_url: "http://kotaide.com/resources/resources/membrane-ro.png"
 description: " Reverse Osmosis ialah perpindahan molekul pelarut dari konsentrasi tinggi ke konsentrasi rendah melalui membran semi-permeable."
 comments: true
 ---
