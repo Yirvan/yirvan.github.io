@@ -7,11 +7,11 @@
 
     {% include header.html %}
     {{ content }}
+    {% include iklan-kanan.html %}
     {% include footer.html %}
     {% include highlight.html %}
     {% include analytics.html %}
     {% include disqus.html %}
-    {% include iklan-kanan.html %}
 		<script>
     for (var k in window.initFuncs) {
       window.initFuncs[k]();
