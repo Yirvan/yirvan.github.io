@@ -1,8 +1,11 @@
 ---
-title: "Cara Instalasi Jekyll"
 layout: post
+title: "Cara Instalasi Jekyll"
 description: "Jekyll is a blog-aware, static site generator in Ruby."
-comments: true
+modified: 2015-10-07
+tags: [blogging, programming]
+image:
+  background: triangular.png
 ---
 ![]({{ site.url }}/images/jekyll-logo-2x.png)
 
