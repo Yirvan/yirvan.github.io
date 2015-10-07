@@ -35,7 +35,7 @@ google_verify:    6KQ9V1WU1xbOPnLAVUy418zfvGTcF6AHAavesVcVrTU
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Jakarta
+timezone:    
 future:      true
 highlighter: pygments
 markdown:    kramdown
