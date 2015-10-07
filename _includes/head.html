@@ -13,7 +13,13 @@
 <meta name="twitter:creator" content="@{{ site.owner.twitter }}">{% endif %}
 
 <!-- Open Graph -->
-<meta property="fb:admins" content="1021797639" />
+{% if page.og_image_url %}
+<meta property="og:image" content="{{ page.og_image_url }}">
+{% else %}
+  {% if page.photo_url %}
+<meta property="og:image" content="{{ site.url }}/images/avatar.jpg">
+    {% endif %}
+{% endif %}
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
