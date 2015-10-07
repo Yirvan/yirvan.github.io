@@ -16,9 +16,7 @@
 {% if page.og_image_url %}
 <meta property="og:image" content="{{ page.og_image_url }}">
 {% else %}
-  {% if page.photo_url %}
 <meta property="og:image" content="{{ site.url }}/images/avatar.jpg">
-    {% endif %}
 {% endif %}
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
