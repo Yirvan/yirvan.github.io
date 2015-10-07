@@ -1,10 +1,9 @@
 ---
-title: "Reverse Osmosis (RO)"
 layout: post
-description: " Reverse Osmosis ialah perpindahan molekul pelarut dari konsentrasi tinggi ke konsentrasi rendah melalui membran semi-permeable."
-tags: [technoly, health]
+title: "Reverse Osmosis (RO)"
+description: " Perpindahan molekul pelarut dari konsentrasi tinggi ke konsentrasi rendah melalui membran semi-permeable."
 modified: 2015-10-07
-comments: true
+tags: [technology, health]
 image:
   feature: abstract-7.jpg
   credit: dargadgetz
