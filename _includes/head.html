@@ -14,7 +14,7 @@
 
 <!-- Open Graph -->
 {% if page.og_image_url %}
-<meta property="og:image" content="{{ page.og_image_url }}">
+<meta property="og:image" content="{{ site.url }}/images{{ page.og_image_url }}">
 {% else %}
 <meta property="og:image" content="{{ site.url }}/images/portrait.jpg">
 {% endif %}
