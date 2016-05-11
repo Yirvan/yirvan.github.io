@@ -10,10 +10,26 @@
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', '{{ site.google_analytics }}', 'auto');  
+  ga('create', '{{ site.google_analytics }}', 'auto');
   ga('require', 'linkid', 'linkid.js');
   ga('send', 'pageview');
 </script>
 {% endif %}
 
-{% if page.comments != false %}{% include disqus_comments.html %}{% endif %}
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var $_Tawk_API={},$_Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/573291c187b47a7a385aeab7/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+{% if page.comments != false %}
+  {% include disqus_comments.html %}
+{% endif %}
